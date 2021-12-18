@@ -1,5 +1,5 @@
-[meta title:"Drought of the Sinking Delta" description:"Things are out of joint in the delta of the Mekong, Southeast Asia’s largest river."
-  shareImageUrl:"https://parametric.press/issue-02/sinking-delta/static/images/share.png"
+[meta title:"Dummy web 001" description:"Things are out of joint in the delta of the Mekong, Southeast Asia’s largest river."
+  shareImageUrl:"https://parametric.press/issue-02/sinking-delta/static/images/header01.jpg"
   shareImageWidth:"880"
   shareImageHeight:"440" /]
 
@@ -12,17 +12,16 @@
 [Header
   title:`["Drought of the", "Sinking Delta"]`
   longTitle:`["Drought of the Sinking Delta"]`
-  date:"October 19, 2020"
-  dek:"Things are out of joint in the delta of the Mekong, Southeast Asia’s largest river. Rising sea levels and subsiding land are threatening to flood the area. Simultaneously, the annual Monsoon inundations are delayed more and more often, while still retreating early, and leaving local fields parched. But why? Let's unravel a complex tangle of reasons, with climate change at its core."
+  date:"December, 2021"
+  dek:"Tings are out of joint in the delta of the Mekong, Southeast Asia’s largest river. Rising sea levels and subsiding land are threatening to flood the area. Simultaneously, the annual Monsoon inundations are delayed more and more often, while still retreating early, and leaving local fields parched. But why? Let's unravel a complex tangle of reasons, with climate change at its core."
   fullWidth:true
-  headerImage:"static/images/header.jpg"
+  headerImage:"static/images/header01.jpg"
   authors:`[{
-    name: "Christina Orieschnig",
+    name: "Guerrilla Creative",
     role: "",
-    url: "http://typingquill.com/"
+    url: ""
   }]`
-  doi:"https://zenodo.org/badge/latestdoi/245054411"  
-  archive:"https://parametric-press-archives.s3-us-west-2.amazonaws.com/issue-02.wacz"
+ 
   source:`"https://github.com/ParametricPress/02-" + parametricSlug `
 /]
 
@@ -84,7 +83,7 @@ Springing from the vast Tibetan plateau at the foot of the Himalayas, the Mekong
  [div fullWidth:true style:`{
    width: '100vw',
    height: '100vh',
-   // position: 'fixed',
+   // positi on: 'fixed',
    transition: 'opacity 1s',
    display: 'flex',
    flexDirection: 'row',
